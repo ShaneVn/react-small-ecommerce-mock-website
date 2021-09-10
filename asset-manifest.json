@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-small-ecommerce-mock-website/static/css/main.8d7cb86d.chunk.css",
+    "main.js": "/react-small-ecommerce-mock-website/static/js/main.2a11997f.chunk.js",
+    "main.js.map": "/react-small-ecommerce-mock-website/static/js/main.2a11997f.chunk.js.map",
+    "runtime-main.js": "/react-small-ecommerce-mock-website/static/js/runtime-main.9e1af1c3.js",
+    "runtime-main.js.map": "/react-small-ecommerce-mock-website/static/js/runtime-main.9e1af1c3.js.map",
+    "static/js/2.0e7f8b4b.chunk.js": "/react-small-ecommerce-mock-website/static/js/2.0e7f8b4b.chunk.js",
+    "static/js/2.0e7f8b4b.chunk.js.map": "/react-small-ecommerce-mock-website/static/js/2.0e7f8b4b.chunk.js.map",
+    "index.html": "/react-small-ecommerce-mock-website/index.html",
+    "static/css/main.8d7cb86d.chunk.css.map": "/react-small-ecommerce-mock-website/static/css/main.8d7cb86d.chunk.css.map",
+    "static/js/2.0e7f8b4b.chunk.js.LICENSE.txt": "/react-small-ecommerce-mock-website/static/js/2.0e7f8b4b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e1af1c3.js",
+    "static/js/2.0e7f8b4b.chunk.js",
+    "static/css/main.8d7cb86d.chunk.css",
+    "static/js/main.2a11997f.chunk.js"
+  ]
+}
