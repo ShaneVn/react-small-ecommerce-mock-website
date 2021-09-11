@@ -8,7 +8,7 @@ import {ContextProvider} from "./Context"
 ReactDOM.render(
 
   <ContextProvider>
-  <BrowserRouter>
+  <BrowserRouter  basename="/react-small-ecommerce-mock-website">
     <App />
   </BrowserRouter>
   </ContextProvider>
